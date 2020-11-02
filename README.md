@@ -1,10 +1,14 @@
 # factory-pattern
-Examples for Factory patern and abstract factory pattern from 
+Examples for Factory Patern and Abstract Factory Pattern used in class 
 
-Code Example [ShapeDemo.java](factory-patttern/ShapeDemo.java) not using a factory
-
+## Not using a factory
+Class diagram for [ShapeDemo.java](factory-patttern/ShapeDemo.java)</br> 
 ![NoFactoryExample](NoFactoryExample.png)
 
-
+## Using Factory
+Class diagram for [FactoryPatternDemo.java](factory-patttern/FactoryPatternDemo.java)</br> 
 ![FactoryPatternExample](FactoryPatternExample.png)
+
+# Using Abstract Factory 
+Class diagram for [AbstractFactoryPatternDemo.java](abstract-factory-patern/AbstractFactoryPatternDemo.java)</br> 
 ![AbstractFactoryExample](AbstractFactoryExample.png)
